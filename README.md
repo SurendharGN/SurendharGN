@@ -1,9 +1,9 @@
-<h1 align="center">Hey everyone!I'm I'm Surendhar</h1>
+<h1 align="center">Hey everyone!I'm Surendhar</h1>
 <h3 align="center">I'm a sophomore majoring in Artificial Intelligence from India. I'd like to contribute to open-source projects to enhance my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendhargn&label=Profile%20views&color=0e75b6&style=flat" alt="surendhargn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surendhargn" alt="surendhargn" /></a> </p>
+
 
 - 🔭 I’m currently working on [an invoice generator application](https://github.com/SurendharGN/InVoice)
 
