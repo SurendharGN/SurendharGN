@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at my [Portfolio](Portfolio)
 
 - 📫 How to reach me **work.surendhar@gmail.com**
 
