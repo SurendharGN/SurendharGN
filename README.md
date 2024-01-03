@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendhargn&label=Profile%20views&color=0e75b6&style=flat" alt="surendhargn" /> </p>
 
-- All of my projects are available at my <a href="https://surendhar-dev.vercel.app/">portfolio</a>
-
-- How to reach me **work.surendhar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
