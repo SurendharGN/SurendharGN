@@ -1,11 +1,11 @@
-<h1 align="center">Hey everyone!I'm Surendhar</h1>
+<h1 align="center">Hey everyone! I'm Surendhar</h1>
 <h3 align="center">I'm a sophomore majoring in Artificial Intelligence from India. I'd like to contribute to open-source projects to enhance my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendhargn&label=Profile%20views&color=0e75b6&style=flat" alt="surendhargn" /> </p>
 
 
 
-- 🔭 I’m currently working on [an invoice generator application](https://github.com/SurendharGN/InVoice)
+- 🔭 I’m currently working on [Iota](https://github.com/SurendharGN/Iota)
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
@@ -26,7 +26,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=surendhargn&fire=009DEB&ring=189EEB&currStreakLabel=000000)](https://git.io/streak-stats)
 
 ![surendhargn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surendhargn&theme=default&show_icons=true&hide_border=false&layout=compact)
 <h3 align="left">Support:</h3>
