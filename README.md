@@ -12,7 +12,7 @@
 
 
 
-<div align="center">![surendhargn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surendhargn&theme=default&show_icons=true&hide_border=false&layout=compact)</div>
+<div align="center">{![surendhargn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surendhargn&theme=default&show_icons=true&hide_border=false&layout=compact)}</div>
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/SurendharGN"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SurendharGN" /></a></p>
